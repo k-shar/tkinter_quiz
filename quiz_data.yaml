@@ -1,0 +1,25 @@
+- prompt: "What is the capital of France?"
+  options:
+    - Paris
+    - London
+    - Berlin
+    - Rome
+  answer: Paris
+
+- prompt: "Which planet is known as the Red Planet?"
+  options:
+    - Mars
+    - Venus
+    - Jupiter
+    - Saturn
+    - The moon
+    - neptune
+  answer: Mars
+
+- prompt: "Who painted the Mona Lisa?"
+  options:
+    - Leonardo da Vinci
+    - Vincent van Gogh
+    - Pablo Picasso
+    - Michelangelo
+  answer: Leonardo da Vinci
